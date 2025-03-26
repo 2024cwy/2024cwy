@@ -22,8 +22,6 @@ for i in range(num // 114514):
 * My **favorite number** is **114514**
 * _**AMD** yes!_
 * *猫娘可愛らしい！*
-* ![Profile Views](https://komarev.com/ghpvc/?username=2024cwy&color=blue)
-
 
 > I create this account because _~~I like~~_ I wanna find something fun in github. I hope I will upload something in this account in the future. My English isn't very good so plz excuse any grammatical errors. Thanks [Markdownlivepreview](https://markdownlivepreview.com/) very much!
 
@@ -37,6 +35,8 @@ sudo cp -rf /home/genius/skills/* ~/skills/
 * My [Instagram](https://www.instagram.com/charmanderwy556/).
 * My [password](http://www.youtube.com/watch?v=dQw4w9WgXcQ%3Fsi%3DyuB7gGsTLJtUCItL).
 * My [friend's github page](https://github.com/idadwind1).
+
+There are ![Visitor Count](https://count.getloli.com/get/@2024cwy?theme=rule34) visitors.
 
 #### _P.S._
 _This is the first time for me to write  `markedown` file. Plz point out if there's any mistake_
