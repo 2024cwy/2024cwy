@@ -22,6 +22,8 @@ for i in range(num // 114514):
 * My **favorite number** is **114514**
 * _**AMD** yes!_
 * *猫娘可愛らしい！*
+* Also, you are my ![Profile Views](https://komarev.com/ghpvc/?username=2024cwy&color=blue)
+
 
 > I create this account because _~~I like~~_ I wanna find something fun in github. I hope I will upload something in this account in the future. My English isn't very good so plz excuse any grammatical errors. Thanks [Markdownlivepreview](https://markdownlivepreview.com/) very much!
 
