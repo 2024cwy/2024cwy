@@ -28,7 +28,9 @@ for i in range(num // 114514):
 📫Contact me by 2024cwy@gmail.com
 
 sudo cp -rf /home/genius/skills/* ~/skills/
+
 sudo apt install knowledge
+
 sudo pacman -S money
 
 ## Links
