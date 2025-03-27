@@ -42,7 +42,7 @@ sudo pacman -S money
 
 ## Something else
 
-### There are ![Visitor Count](https://count.getloli.com/get/@2024cwy?theme=rule34) visitors.
+### You are the ![Visitor Count](https://count.getloli.com/get/@2024cwy?theme=rule34) visitor!
 
 #### _P.S._
 _This is the first time for me to write  `markedown` file. Plz point out if there's any mistake_
