@@ -36,7 +36,7 @@ sudo pacman -S money
 ## Links
 
 * My [Bilibili space](https://space.bilibili.com/323084396).
-* My [Instagram](https://www.instagram.com/charmanderwy556/).
+* My [Instagram](https://www.instagram.com/charmanderwy556/)._(Can't use now, banned by unknown reason)_
 * My [password](http://www.youtube.com/watch?v=dQw4w9WgXcQ%3Fsi%3DyuB7gGsTLJtUCItL).
 * My [friend's github page](https://github.com/idadwind1).
 
