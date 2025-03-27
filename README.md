@@ -23,11 +23,13 @@ for i in range(num // 114514):
 * _**AMD** yes!_
 * *猫娘可愛らしい！*
 
-> I create this account because _~~I like~~_ I wanna find something fun in github. I hope I will upload something in this account in the future. My English isn't very good so plz excuse any grammatical errors. Thanks [Markdownlivepreview](https://markdownlivepreview.com/) very much!
+> I create this account because _~~I like~~_ I wanna find something fun in github. I hope I will upload something in this account in the future. My English isn't very good so plz excuse any grammatical errors. Thanks [Markdownlivepreview](https://markdownlivepreview.com/) very much! 
 
 📫Contact me by 2024cwy@gmail.com
 
 sudo cp -rf /home/genius/skills/* ~/skills/
+sudo apt install knowledge
+sudo pacman -S money
 
 ## Links
 
